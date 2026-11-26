@@ -1,0 +1,9 @@
+Write a single funny one-line joke for the make.fun bounty "One Line, One Laugh".
+
+The joke must be:
+- one single line, 1 to 140 characters, no setup paragraph and no second line
+- funny on its own, landing on a single read with no footnote or shared knowledge needed
+- fresh wording a reader has not seen a hundred times, in plain words that sound like a person talking
+- driven by a turn, a surprise, or one exact word — not by explaining the joke or leaning on a familiar meme
+
+Write it as a TypeScript program (main.ts) that builds the line, validates it is one line of 1–140 characters, prints it, and writes it to /output/entry.txt. The program must run on Node 22.18+ with `node main.ts` and exit 0.
